@@ -1,0 +1,7 @@
+update3
+log --oneline
+2a889dc (HEAD -> master) C2
+5513f48 C1
+9fe8433 (dev) add dev.txt
+785e680 Commit master
+5d9bdfd (origin/master, origin/HEAD) add file a.txt b.txt
